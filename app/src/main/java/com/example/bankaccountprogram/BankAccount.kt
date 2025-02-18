@@ -29,8 +29,4 @@ class BankAccount(var accountHolder: String,var balance: Double) {
             println(transaction)
 
     }
-     fun addcomment()
-     {
-
-     }
 }
